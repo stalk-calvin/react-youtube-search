@@ -1,13 +1,20 @@
-# React - youtube search by typing
+# REACT - youtube search by typing
+
+<img src="https://raw.githubusercontent.com/stalk-calvin/react-youtube-search/master/img/built_with_love.png" /> <img src="https://raw.githubusercontent.com/stalk-calvin/react-youtube-search/master/img/powered_by_coffee.png" />
 
 Shows top 5 results from the keyword from input field.
 
 Can select by clicking the video from the list to see it.
 
-### Getting Started
+### Application URL
 
-You need .env file with youtube API key to use the application.
+https://stalk-calvin.github.io/react-youtube-search/
 
-Please see .env.sample for sample for details 
+#### For devs
+
+clone/download the project, go into the folder, 
+
+1. `npm install`
+2. `npm start`
 
 
